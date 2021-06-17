@@ -1,0 +1,3 @@
+include ':capturer'
+include ':app'
+rootProject.name = "ViewCapturer"

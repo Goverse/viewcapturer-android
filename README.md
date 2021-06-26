@@ -1,5 +1,5 @@
 # viewcapturer-android
-用于完成Android View的截图，并可以对图片进行处理
+> 一个用于完成Android View截图的小工具，灵活的接口方便扩展。
 
 
 使用方法如下：
